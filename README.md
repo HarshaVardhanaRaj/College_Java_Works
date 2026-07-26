@@ -21,25 +21,29 @@ Exp: 1                Date: 8/7/2026
 
 Exp: 2                Date: 17/7/2026
 
-2.1 = Student class with member variables 
-2.2 = Student class with mv and methods
-2.3 = Area of Rectangle w & w/o return
-2.4 = Class with private members + getter and setter
-2.5 = Store & receive employee details
-2.6 = Encapsulation using get() and set()
-2.7 = Parameterised constructor
-2.8 = multiple constructors
-2.9 = use this() to call another constructor
-2.10 = Class employee using constructors
+1. Student class with member variables
+2. Student class with mv and methods
+3. Area of Rectangle w & w/o return
+4. Class with private members + getter and setter
+5. Store & receive employee details
+6. Encapsulation using get() and set()
+7. Parameterised constructor
+8. multiple constructors
+9. use this() to call another constructor
+10. Class employee using constructors
 
 
 
 
 Exp: 3                Date: 24/7/2026
 
-3.1 = simple inheritance
-3.2 = multi-level inheritance
-3.3 = banking with MLI
-3.4 = Overriding with MLI
-3.5 = Student Results with SI
-3.6 = Overirding with MLI for sound()
+1. simple inheritance
+2. multi-level inheritance
+3. banking with MLI
+4. Overriding with MLI
+5. Student Results with SI
+6. Overirding with MLI for sound()
+
+
+
+
