@@ -4,18 +4,18 @@ OOPs in Java
 
 Exp: 1                Date: 8/7/2026
 
-1.1 = Student Details
-1.2 = 2 Integer Operations
-1.3 = Area of Circle
-1.4 = Celsius to Fahrenheit
-1.5 = ASCII Values
-1.6 = Sum of N Numbers
-1.7 = Multiplication Table
-1.8 = Factorial
-1.9 = Fibanacci
-1.10 = EB Bill
-1.11 = Grades using switch case
-1.12 = Arithmetic Mean
+1. Student Details
+2. 2 Integer Operations
+3. Area of Circle
+4. Celsius to Fahrenheit
+5. ASCII Values
+6. Sum of N Numbers
+7. Multiplication Table
+8. Factorial
+9. Fibanacci
+10. EB Bill
+11. Grades using switch case
+12. Arithmetic Mean
 
 
 
