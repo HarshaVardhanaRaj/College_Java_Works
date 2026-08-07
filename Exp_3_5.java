@@ -1,11 +1,6 @@
-class Shape
+abstract class Shape
 {	
-	double area;
-
-	void area()
-	{
-		System.out.println("Area = "+area);
-	}
+	abstract void area();
 }
 
 class Circle extends Shape
@@ -19,8 +14,7 @@ class Circle extends Shape
 	
 	void area()
 	{
-		area = 3.14*rad*rad;
-		super.area();
+		System.out.println("Area of Circle = "+(3.14*rad*rad));
 	}
 }
 
@@ -36,8 +30,7 @@ class Rectangle extends Shape
 	
 	void area()
 	{
-		area = ln*br;
-		super.area();
+		System.out.println("Area of Rectangle = "+(ln*br));
 	}
 }
 
@@ -55,8 +48,8 @@ class Triangle extends Shape
 	void area()
 	{
 		int s = (a+b+c)/2;
-		area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
-		super.area();
+		double area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
+		System.out.println("Area of Triangle = "+(area));
 	}
 }
 
@@ -64,9 +57,9 @@ class Exp_3_5
 {
 	public static void main(String args[])
 	{
-		Circle c1 = new Circle(3.5);
-		Rectangle r1 = new Rectangle(10,25);
-		Triangle t1 = new Triangle(3,4,5);
+		Shape c1 = new Circle(3.5);
+		Shape r1 = new Rectangle(10,25);
+		Shape t1 = new Triangle(3,4,5);
 		c1.area();
 		r1.area();
 		t1.area();
