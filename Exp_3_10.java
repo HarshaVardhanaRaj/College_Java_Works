@@ -52,7 +52,7 @@ class Professor extends Employee
     }
 }
 
-class Exp_4_1
+class Exp_3_10
 {
 	public static void main(String args[])
 	{
