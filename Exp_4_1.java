@@ -45,7 +45,7 @@ class Circle extends Shape
     }
 }
 
-class Exp_4_2
+class Exp_4_1
 {
 	public static void main(String args[])
 	{
